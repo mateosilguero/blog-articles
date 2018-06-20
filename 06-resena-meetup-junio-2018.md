@@ -11,7 +11,7 @@ Para arrancar el evento, **[Daniel Gimenez](https://twitter.com/idanielgimenez)*
 
 Daniel, nos introdujo en como utilizan React + Redux, y los problemas que tenia esto al escalar la aplicación. Es por esto que tuvieron que implementar sus propios estándares y soluciónes:
 
-Para esto, implementaron **[Flow](https://flow.org/en/)**, una librería que te permite agregar *tipos státicos* a Javascript y así forzar y asegurarte de los datos que manejará la aplicación. También, facilita el uso de test unitarios y funcionales, lo cual les ayudo a poder testear el store de Redux.
+Para esto, implementaron **[Flow](https://flow.org/en/)**, una librería que te permite agregar *tipos estáticos* a Javascript y así forzar y asegurarte de los datos que manejará la aplicación. También, facilita el uso de test unitarios y funcionales, lo cual les ayudo a poder testear el store de Redux.
 
 ![Daniel Gimenez](https://raw.githubusercontent.com/meetupjs-ar/blog-articles/master/06-resena-meetup-junio-2018/daniel_gimenez.jpg)
 
